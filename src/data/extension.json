@@ -1,0 +1,16 @@
+{
+    "images": [
+        ".jpg",
+        ".jpeg",
+        ".png"
+    ],
+    "videos": [
+        ".mkv",
+        ".mp4",
+        "avi"
+    ],
+    "audio": [
+        ".mp3",
+        ".wav"
+    ]
+}
