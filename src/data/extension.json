@@ -2,15 +2,47 @@
     "images": [
         ".jpg",
         ".jpeg",
-        ".png"
+        ".png",
+        ".gif",
+        ".bmp"
     ],
     "videos": [
-        ".mkv",
         ".mp4",
-        "avi"
+        ".mkv",
+        ".avi",
+        ".mov"
     ],
     "audio": [
         ".mp3",
-        ".wav"
+        ".wav",
+        ".flac",
+        ".aac"
+    ],
+    "documents": [
+        ".txt",
+        ".pdf",
+        ".doc",
+        ".docx",
+        ".xls",
+        ".xlsx",
+        ".ppt",
+        ".pptx"
+    ],
+    "compressed": [
+        ".zip",
+        ".rar",
+        ".7z",
+        ".tar",
+        ".gz",
+        ".bz2"
+    ],
+    "executables": [
+        ".exe",
+        ".msi",
+        ".apk",
+        ".dmg"
+    ],
+    "torrents": [
+        ".torrent"
     ]
 }
